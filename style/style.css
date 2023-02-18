@@ -82,7 +82,7 @@ body {
 }
 
 .gallerty__left {
-	margin-top: calc(var(--gallery-gap) * 1.75);
+	/* margin-top: calc(var(--gallery-gap) * 1.75); */
 }
 .gallery__right .gallery__item {
 	margin: 0;
